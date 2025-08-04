@@ -1,4 +1,0 @@
-# Nmap 7.94SVN scan initiated Mon Jun 23 17:58:00 2025 as: nmap -sS -sV -A -T3 -Pn -oA LocalScan 192.168.43.160
-Host: 192.168.43.160 (parrot)	Status: Up
-Host: 192.168.43.160 (parrot)	Ports: 53/open/tcp//domain//dnsmasq 2.90/	Ignored State: closed (999)	OS: Linux 2.6.32	Seq Index: 254	IP ID Seq: All zeros
-# Nmap done at Mon Jun 23 17:58:16 2025 -- 1 IP address (1 host up) scanned in 15.84 seconds
