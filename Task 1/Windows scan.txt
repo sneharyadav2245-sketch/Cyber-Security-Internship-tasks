@@ -1,0 +1,28 @@
+# Nmap 7.95 scan initiated Wed Aug  6 19:57:00 2025 as: nmap -sS 10.241.85.124
+Nmap scan report for 10.241.85.124
+Host is up (0.00086s latency).
+Not shown: 979 closed tcp ports (reset)
+PORT     STATE    SERVICE
+25/tcp   filtered smtp
+110/tcp  filtered pop3
+119/tcp  filtered nntp
+125/tcp  filtered locus-map
+135/tcp  open     msrpc
+139/tcp  open     netbios-ssn
+143/tcp  filtered imap
+445/tcp  open     microsoft-ds
+465/tcp  filtered smtps
+548/tcp  filtered afp
+563/tcp  filtered snews
+587/tcp  filtered submission
+800/tcp  filtered mdbs_daemon
+902/tcp  open     iss-realsecure
+903/tcp  filtered iss-console-mgr
+912/tcp  open     apex-mesh
+993/tcp  filtered imaps
+995/tcp  filtered pop3s
+1025/tcp filtered NFS-or-IIS
+1122/tcp filtered availant-mgr
+1433/tcp filtered ms-sql-s
+
+# Nmap done at Wed Aug  6 19:57:02 2025 -- 1 IP address (1 host up) scanned in 1.97 seconds
